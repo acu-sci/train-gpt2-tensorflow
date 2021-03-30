@@ -1,3 +1,8 @@
+venv*
+logs/
+reuters-dataset/
+runs/
+gpt2-places/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
